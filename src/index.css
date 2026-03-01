@@ -110,5 +110,8 @@ body {
   font-weight: 900;
   letter-spacing: -2px;
   text-transform: uppercase;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
   user-select: none;
 }
